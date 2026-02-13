@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Foodi Smart Ledger AI",
+  "description": "An AI-powered earnings and expense tracker for delivery riders to manage their collections and profits effortlessly from screenshots or text.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
